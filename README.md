@@ -10,7 +10,9 @@ Buscando aprimorar continuamente meus conhecimentos
 Em busca de oportunidades para iniciar minha carreira na área de tecnologia
 
 Tecnologias
+
 Atualmente estudando
+
 HTML5
 
 CSS3
